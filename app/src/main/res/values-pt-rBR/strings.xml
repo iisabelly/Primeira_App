@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olá!</string>
+    <string name="et_texto_hint">Digite alguma coisa aqui!</string>
+    <string name="et_texto">Enviar</string>
+</resources>
